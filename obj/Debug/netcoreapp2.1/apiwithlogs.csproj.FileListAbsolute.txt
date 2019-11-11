@@ -1,0 +1,16 @@
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\obj\Debug\netcoreapp2.1\apiwithlogs.csprojAssemblyReference.cache
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\obj\Debug\netcoreapp2.1\apiwithlogs.RazorAssemblyInfo.cache
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\obj\Debug\netcoreapp2.1\apiwithlogs.RazorAssemblyInfo.cs
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\obj\Debug\netcoreapp2.1\apiwithlogs.AssemblyInfoInputs.cache
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\obj\Debug\netcoreapp2.1\apiwithlogs.AssemblyInfo.cs
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\bin\Debug\netcoreapp2.1\appsettings.Development.json
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\bin\Debug\netcoreapp2.1\appsettings.json
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\bin\Debug\netcoreapp2.1\apiwithlogs.deps.json
+D:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\bin\Debug\netcoreapp2.1\apiwithlogs.runtimeconfig.json
+D:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\bin\Debug\netcoreapp2.1\apiwithlogs.runtimeconfig.dev.json
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\bin\Debug\netcoreapp2.1\apiwithlogs.dll
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\bin\Debug\netcoreapp2.1\apiwithlogs.pdb
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\obj\Debug\netcoreapp2.1\apiwithlogs.RazorTargetAssemblyInfo.cache
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\obj\Debug\netcoreapp2.1\apiwithlogs.dll
+d:\R&D\Medium\LogAnalyzer\Repo\apiwithlogs\obj\Debug\netcoreapp2.1\apiwithlogs.pdb
